@@ -6,7 +6,7 @@ Why we are asking you to do this: We believe that code is poetry. This short, si
 
 ***Write for the future*** - Write your code as if someone else will be working with it the next day. That person should be able to hit the ground running immediately.
 
-***Keep dependencies to a minimum*** - Importing a twitter SDK/API-client would be sensible for this task, but using a full-featured web framework would probably be overkill.
+***Keep dependencies to a minimum*** - Importing a facebook JS would be sensible for this task, but using a full-featured web framework would probably be overkill.
 
 ***Publicly accessible*** - Present the solution as a publicly accessible URL
 
